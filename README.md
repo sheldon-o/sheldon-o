@@ -1,5 +1,5 @@
 - 👋 Hi, I’m shivam arora
-- 👀 I’m interested in web development,  Ai and ML ,crypto and nft, fictional comics ,cars and realestate in beverly hills . 
+- 👀 I’m interested in web development,  Ai and ML. 
 - 🌱 I’m currently learning full stack web development and django
 - 💞️ I’m looking to collaborate on open source projects or i would like to work with startups.
 - 📫 How to reach me  =>shivam4dec20@gmail.com
