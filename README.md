@@ -1,6 +1,5 @@
 - 👋 Hi, I’m shivam arora
 - 👀 I’m interested in 
-- 📫 How to reach me  =>shivam4dec20@gmail.com
 - 🎞 favourite sitcom "friends and tbbt"
 -🚀 we will fly together
 
