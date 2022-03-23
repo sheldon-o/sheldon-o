@@ -2,8 +2,8 @@
 - 👀 I’m interested in 
 - 🎞 favourite sitcom "friends and tbbt"
 -🚀 we will fly together
-[![trophy](https://github-profile-trophy.vercel.app/?username=sheldon-o&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-https://github-profile-trophy.vercel.app/?username=sheldon-o&title=Issues
+[![trophy](https://github-profile-trophy.vercel.app/?username=sheldon-o&theme=onedark&rank=S,A,AA,SS,SSS,AAA,B)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 
 
